@@ -1,7 +1,7 @@
 {
   "name": "ejemplo_in6bm",
   "version": "1.0.0",
-  "description": "Esto es un ejemplo para la Seccion IN6BM.",
+  "description": "Esto es un ejemplo para la Seccion IN6BM. Prueba Discord",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
